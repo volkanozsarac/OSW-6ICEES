@@ -2,4 +2,4 @@
 OpenSees Workshop Files - 6th International Conference on Earthquake Engineering and Seismology (6ICEES)
 
 
-<img src="./Python-OpenSeesPy/img/aad_OSW-6ICEES.drawio.png">
+<img src="./Presentations/img/aad_OSW-6ICEES.drawio.png">
