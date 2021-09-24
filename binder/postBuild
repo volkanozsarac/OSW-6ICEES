@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# run following to install GeckoDriver
-python -c "from webdriverdownloader import GeckoDriverDownloader; 
-gdd = GeckoDriverDownloader(); 
-gdd.download_and_install("v0.23.0")
-"
