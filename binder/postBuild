@@ -1,5 +1,7 @@
-#!/usr/bin/env python3
+#!/bin/bash
 
-from webdriverdownloader import GeckoDriverDownloader
-gdd = GeckoDriverDownloader()
+# run matplotlib once to generate the font cache
+python -c "from webdriverdownloader import GeckoDriverDownloader; 
+gdd = GeckoDriverDownloader(); 
 gdd.download_and_install("v0.23.0")
+"
