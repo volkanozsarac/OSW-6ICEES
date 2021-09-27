@@ -17,7 +17,7 @@ The chapter introduces main characteristics of the Python language (e.g. syntax,
 
 ## 3. SDOF Systems
 
-The numerical modelling and structural analysis of different single degree of freedom (SDoF) systems using OpenSeesPy is demonstrated. Three of the available uniaxial materials in OpenSeesPy are tested using cyclic and monotonic loading. Single and sequential dynamic analyses are carried out using the selected ground motion records.
+The numerical modelling and structural analysis of different single degree of freedom (SDOF) systems using OpenSeesPy is demonstrated. Three of the available uniaxial materials in OpenSeesPy are tested using cyclic and monotonic loading. Single and sequential dynamic analyses are carried out using the selected ground motion records.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=3.%20SDOF.ipynb)
 
