@@ -11,13 +11,13 @@ The chapter describes the motivation for the course module. The participants are
 
 The chapter introduces main characteristics of the Python language (e.g. syntax, data types, operators, control flow and loops, functions, libraries). The most commonly used libraries for scientific purposes are introduced. Finally, for a given site in Turkey, the ground motion record selection is carried out in accordance with Turkish Building Code 2018 (TBDY 2018) using a readily available python package. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=2.%20Basics.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=2.%20Python.ipynb)
 
 ## 3. SDOF Systems
 
 The numerical modelling and structural analysis of different single degree of freedom (SDoF) systems using OpenSeesPy is demonstrated. Three of the available uniaxial materials in OpenSeesPy are tested using cyclic and monotonic loading. Single and sequential dynamic analyses are carried out using the selected ground motion records.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=3.%20SDoF.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=3.%20SDOF.ipynb)
 
 ## 4. 2D Frame Systems
 
