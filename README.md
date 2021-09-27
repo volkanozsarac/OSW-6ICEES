@@ -7,15 +7,15 @@ OpenSees Workshop Files - 6th International Conference on Earthquake Engineering
 
 **2. Basics of Python**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=2.%20Basics%20of%20Python.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=2.%20Basics.ipynb)
 
 **3. SDoF System Examples**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=3.%20SDoF%20Analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=3.%20SDoF.ipynb)
 
 **4. 2D Frame Examples**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=4.%20Frame%20Analysis.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=4.%20Frame.ipynb)
 
 **5. Hackathon**
 
