@@ -1,5 +1,7 @@
+![](img/logo.png)
+
 # OSW-6ICEES
-This is the official repository for the course module presented on October 10th of OpenSees Workshop - 6th International Conference on Earthquake Engineering and Seismology (6ICEES). The outline of the course module is provided below. The participants are recommended to execute python code lines through jupyter notebook together with the instructors to make their learning more efficient. In order to reduce the amount of time to set up python enviroments, the participants are recommended to open notebooks with binder, in a readily available executable environment, by clicking the buttons provided below. 
+This is the official repository for the course module presented on October 10th **OpenSees Workshop - 6th International Conference on Earthquake Engineering and Seismology (6ICEES)**. The outline of the course module is provided below. The participants are recommended to execute python code lines through jupyter notebook together with the instructors to make their learning more efficient. In order to reduce the amount of time to set up python enviroments, the participants are recommended to open notebooks with binder, in a readily available executable environment, by clicking the buttons provided below. 
 
 ## 1. Introduction
 
