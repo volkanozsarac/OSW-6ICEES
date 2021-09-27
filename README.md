@@ -19,7 +19,7 @@ The numerical modelling and structural analysis of different single degree of fr
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?filepath=3.%20SDoF.ipynb)
 
-## 4. 2D Frame Reinforced Concrete Systems
+## 4. 2D Frame Systems
 
 The numerical modelling and structural analysis of 2D reinforced concrete frame system using OpenSeesPy is demonstrated. In particular, two different models of the same frame are considered: elastic and inelastic. Moreover, different analyses are carried out: linear and nonlinear static analysis, response spectrum analysis, and nonlinear response history analysis.
 
