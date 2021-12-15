@@ -1,2 +1,2 @@
-EzGM==1.5.2
+EzGM==1.5.3
 openseespy==3.3.0.1.1
