@@ -14,7 +14,7 @@ The chapter describes the motivation for the course module. The participants are
 
 ## 2. Python for Beginners
 
-The chapter introduces main characteristics of the Python language (e.g. syntax, data types, operators, control flow and loops, functions, libraries). The most commonly used libraries for scientific purposes are introduced. Finally, for a given site in Turkey, the ground motion record selection is carried out in accordance with Turkish Building Code 2018 (TBDY 2018) using a readily available python package. 
+The chapter introduces main characteristics of the Python language (e.g. syntax, data types, operators, control flow and loops, functions, libraries). The most commonly used libraries for scientific purposes are introduced. Finally, for a given site in Turkey, the ground motion record selection is carried out in accordance with Turkish Building Earthquake Code 2018 (TBEC 2018) using a readily available python package. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/volkanozsarac/OSW-6ICEES/HEAD?labpath=2.%20Python.ipynb)
 
